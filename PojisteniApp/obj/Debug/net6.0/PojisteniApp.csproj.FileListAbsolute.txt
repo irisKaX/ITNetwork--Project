@@ -1,0 +1,15 @@
+C:\Users\IrisS\Dropbox\c#\PojisteniApp\PojisteniApp\bin\Debug\net6.0\PojisteniApp.exe
+C:\Users\IrisS\Dropbox\c#\PojisteniApp\PojisteniApp\bin\Debug\net6.0\PojisteniApp.deps.json
+C:\Users\IrisS\Dropbox\c#\PojisteniApp\PojisteniApp\bin\Debug\net6.0\PojisteniApp.runtimeconfig.json
+C:\Users\IrisS\Dropbox\c#\PojisteniApp\PojisteniApp\bin\Debug\net6.0\PojisteniApp.dll
+C:\Users\IrisS\Dropbox\c#\PojisteniApp\PojisteniApp\bin\Debug\net6.0\PojisteniApp.pdb
+C:\Users\IrisS\Dropbox\c#\PojisteniApp\PojisteniApp\obj\Debug\net6.0\PojisteniApp.csproj.AssemblyReference.cache
+C:\Users\IrisS\Dropbox\c#\PojisteniApp\PojisteniApp\obj\Debug\net6.0\PojisteniApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrisS\Dropbox\c#\PojisteniApp\PojisteniApp\obj\Debug\net6.0\PojisteniApp.AssemblyInfoInputs.cache
+C:\Users\IrisS\Dropbox\c#\PojisteniApp\PojisteniApp\obj\Debug\net6.0\PojisteniApp.AssemblyInfo.cs
+C:\Users\IrisS\Dropbox\c#\PojisteniApp\PojisteniApp\obj\Debug\net6.0\PojisteniApp.csproj.CoreCompileInputs.cache
+C:\Users\IrisS\Dropbox\c#\PojisteniApp\PojisteniApp\obj\Debug\net6.0\PojisteniApp.dll
+C:\Users\IrisS\Dropbox\c#\PojisteniApp\PojisteniApp\obj\Debug\net6.0\refint\PojisteniApp.dll
+C:\Users\IrisS\Dropbox\c#\PojisteniApp\PojisteniApp\obj\Debug\net6.0\PojisteniApp.pdb
+C:\Users\IrisS\Dropbox\c#\PojisteniApp\PojisteniApp\obj\Debug\net6.0\PojisteniApp.genruntimeconfig.cache
+C:\Users\IrisS\Dropbox\c#\PojisteniApp\PojisteniApp\obj\Debug\net6.0\ref\PojisteniApp.dll
